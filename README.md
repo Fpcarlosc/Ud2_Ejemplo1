@@ -1,7 +1,7 @@
 # Ud2_Ejemplo1
 _Ejemplo 1 de la Unidad 2._
 
-Vemos la diferencia entre wrap_content y match_parent, para ello sólo hemos de fijarnos en el fichero _main_activity.xml_ 
+Vemos la diferencia entre wrap_content y match_parent, para ello sólo hemos de fijarnos en el fichero _activity_main.xml_ 
 y en concreto en las siguientes líneas:
 
 ```
